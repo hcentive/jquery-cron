@@ -5,7 +5,7 @@
     "vaibhav.gupta <vaibhav.gupta@hcentive.com>"
   ],
   "description": "A jQuery plugin that uses Quartz Format to provide a simplified interface for users to specify cron entries",
-  "main": "cron/jquery-cron-min.js",
+  "main": "./cron/jquery-cron-min.js",
   "moduleType": [],
   "license": "MIT",
   "private": true,
