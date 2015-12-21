@@ -1,0 +1,19 @@
+{
+  "name": "jquery-cron-hcentive",
+  "homepage": "https://github.com/hcentive/jquery-cron",
+  "authors": [
+    "vaibhav.gupta <vaibhav.gupta@hcentive.com>"
+  ],
+  "description": "A jQuery plugin that uses Quartz Format to provide a simplified interface for users to specify cron entries",
+  "main": "cron/jquery-cron-min.js",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
